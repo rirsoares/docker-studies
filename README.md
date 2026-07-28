@@ -1,7 +1,7 @@
 # 🐳 Docker do Zero — Material de Estudo e Ensino
 
 Repositório de estudos sobre Docker, construído módulo a módulo, com o objetivo de
-gerar material didático para alunos iniciantes em programação.
+servir como material didático de referência — para estudo, treinamentos e projetos.
 
 ## Como este repositório está organizado
 
@@ -32,7 +32,7 @@ docker-studies/
 | 5 | Docker Compose: aplicações com múltiplos containers | ⬜ |
 | 6 | Boas práticas e projeto final | ⬜ |
 
-## Pré-requisitos para os alunos
+## Pré-requisitos
 
 - Noções básicas de terminal (revisado no módulo 1)
 - Computador com Windows 10/11, macOS ou Linux

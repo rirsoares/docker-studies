@@ -5,7 +5,7 @@
 
 ## 1. O problema que o Docker resolve
 
-Imagine esta cena clássica: um aluno desenvolve um programa no computador dele e funciona
+Imagine esta cena clássica: um desenvolvedor cria um programa no computador dele e funciona
 perfeitamente. Ele manda para o colega... e não funciona. "Na minha máquina funciona!" 🤷
 
 Por quê? Porque o programa depende de coisas instaladas na máquina: a versão certa do Python,

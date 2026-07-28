@@ -5,7 +5,7 @@
 1. No [GitHub](https://github.com/new), crie um repositório chamado `docker-studies`
    (público ou privado). **Não** marque "Add a README" — já temos um.
 
-2. No terminal, dentro da pasta `docker-studies`:
+2. No Git Bash, dentro da pasta do repositório (`cd /g/REPOS/docker-studies`):
 
 ```bash
 git init
