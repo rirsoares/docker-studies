@@ -26,7 +26,7 @@ docker-studies/
 | Módulo | Tema | Status |
 |--------|------|--------|
 | 1 | Fundamentos: o que é Docker, containers vs VMs, primeiros comandos | ✅ |
-| 2 | Imagens e Dockerfile: criando suas próprias imagens | ⬜ |
+| 2 | Imagens e Dockerfile: criando suas próprias imagens | ✅ |
 | 3 | Volumes e persistência de dados | ⬜ |
 | 4 | Redes: comunicação entre containers | ⬜ |
 | 5 | Docker Compose: aplicações com múltiplos containers | ⬜ |
